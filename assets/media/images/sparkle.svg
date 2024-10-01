@@ -1,0 +1,37 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="533.965" height="135.044" viewBox="0 0 533.965 135.044">
+<g id="Group_6497" data-name="Group 6497" transform="translate(-6749.182 -8234)">
+    <rect id="Rectangle_2330" data-name="Rectangle 2330" width="14" height="14" transform="translate(6869.957 8364.026) rotate(-69)" fill="#ffdd15"></rect>
+    <rect id="Rectangle_2332" data-name="Rectangle 2332" width="8" height="8" transform="translate(6893.374 8304.408) rotate(-39)" fill="#e2d7f3"></rect>
+    <rect id="Rectangle_2331" data-name="Rectangle 2331" width="14" height="14" transform="translate(7125.901 8311.485) rotate(-104)" fill="#9dd2ff"></rect>
+    <path id="Polygon_1" data-name="Polygon 1" d="M6.46,6.725a4,4,0,0,1,7.079,0l3.375,6.412A4,4,0,0,1,13.375,19H6.625a4,4,0,0,1-3.54-5.863Z" transform="matrix(-0.951, 0.309, -0.309, -0.951, 7210.446, 8291.445)" fill="#ffdd15"></path>
+    <path id="Polygon_4" data-name="Polygon 4" d="M6.235,3.309a2,2,0,0,1,3.529,0l4.667,8.75A2,2,0,0,1,12.667,15H3.333a2,2,0,0,1-1.765-2.941Z" transform="matrix(0.995, 0.105, -0.105, 0.995, 7153.828, 8352.205)" fill="#fc6d73"></path>
+    <path id="Polygon_2" data-name="Polygon 2" d="M6.46,6.725a4,4,0,0,1,7.079,0l3.375,6.412A4,4,0,0,1,13.375,19H6.625a4,4,0,0,1-3.54-5.863Z" transform="matrix(-0.951, 0.309, -0.309, -0.951, 6828.446, 8340.445)" fill="#9dd2ff"></path>
+    <path id="Polygon_3" data-name="Polygon 3" d="M4.244,3.219a2,2,0,0,1,3.512,0l2.631,4.823A2,2,0,0,1,8.631,11H3.369A2,2,0,0,1,1.613,8.042Z" transform="translate(6877.655 8260.527) rotate(-123)" fill="#fc6d73"></path>
+    <g id="Ellipse_188" data-name="Ellipse 188" transform="translate(7208 8314)" fill="none" stroke="#e9daf5" strokeWidth="3">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"></circle>
+        <circle cx="6.5" cy="6.5" r="5" fill="none"></circle>
+    </g>
+    <g id="Ellipse_189" data-name="Ellipse 189" transform="translate(6956 8240)" fill="none" stroke="#ffdd15" strokeWidth="3">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"></circle>
+        <circle cx="6.5" cy="6.5" r="5" fill="none"></circle>
+    </g>
+    <g id="Group_6495" data-name="Group 6495">
+        <line id="Line_237" data-name="Line 237" y2="12" transform="translate(7256.5 8235.5)" fill="none" stroke="#fc6d73" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_238" data-name="Line 238" y2="12" transform="matrix(0.875, -0.485, 0.485, 0.875, 7261.591, 8272.252)" fill="none" stroke="#fc6d73" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_239" data-name="Line 239" y2="12" transform="matrix(0.174, -0.985, 0.985, 0.174, 7269.591, 8263.458)" fill="none" stroke="#fc6d73" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_240" data-name="Line 240" y2="12" transform="translate(7266.972 8252.437) rotate(-131)" fill="none" stroke="#fc6d73" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_241" data-name="Line 241" y2="12" transform="translate(7237.837 8244.724) rotate(-51)" fill="none" stroke="#fc6d73" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_242" data-name="Line 242" y2="12" transform="matrix(-0.174, -0.985, 0.985, -0.174, 7231.591, 8265.542)" fill="none" stroke="#fc6d73" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_243" data-name="Line 243" y2="12" transform="matrix(-0.899, -0.438, 0.438, -0.899, 7245.87, 8281.893)" fill="none" stroke="#fc6d73" stroke-linecap="round" strokeWidth="3"></line>
+    </g>
+    <g id="Group_6496" data-name="Group 6496" transform="translate(-480.672 1.569)">
+        <line id="Line_237-2" data-name="Line 237" y2="14.251" transform="translate(7261.172 8235.5)" fill="none" stroke="#ffdd15" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_238-2" data-name="Line 238" y2="14.251" transform="matrix(0.875, -0.485, 0.485, 0.875, 7267.218, 8279.145)" fill="none" stroke="#ffdd15" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_239-2" data-name="Line 239" y2="14.251" transform="matrix(0.174, -0.985, 0.985, 0.174, 7276.718, 8268.701)" fill="none" stroke="#ffdd15" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_240-2" data-name="Line 240" y2="14.251" transform="translate(7273.607 8255.613) rotate(-131)" fill="none" stroke="#ffdd15" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_241-2" data-name="Line 241" y2="14.251" transform="translate(7239.008 8246.453) rotate(-51)" fill="none" stroke="#ffdd15" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_242-2" data-name="Line 242" y2="14.251" transform="matrix(-0.174, -0.985, 0.985, -0.174, 7231.591, 8271.177)" fill="none" stroke="#ffdd15" stroke-linecap="round" strokeWidth="3"></line>
+        <line id="Line_243-2" data-name="Line 243" y2="14.251" transform="matrix(-0.899, -0.438, 0.438, -0.899, 7248.547, 8290.594)" fill="none" stroke="#ffdd15" stroke-linecap="round" strokeWidth="3"></line>
+    </g>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <g id="slack-sq" transform="translate(3566 9377)">
+    <rect id="Rectangle_2415" data-name="Rectangle 2415" width="88" height="88" rx="12" transform="translate(-3566 -9377)" fill="#541554"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(0.263 0.313)">
+      <path id="Path_1" data-name="Path 1" d="M18.526.148a5.062,5.062,0,0,0,0,10.125h5.053V5.21A5.058,5.058,0,0,0,18.526.148m0,13.5H5.052a5.063,5.063,0,0,0,0,10.126H18.526a5.063,5.063,0,0,0,0-10.126" transform="translate(-3547.263 -9358.461)" fill="#097eff"/>
+      <path id="Path_2" data-name="Path 2" d="M55.437,18.711a5.053,5.053,0,1,0-10.105,0v5.062h5.052a5.058,5.058,0,0,0,5.053-5.062m-13.473,0V5.21a5.053,5.053,0,1,0-10.105,0v13.5a5.053,5.053,0,1,0,10.105,0" transform="translate(-3552.174 -9358.461)" fill="#097eff"/>
+      <path id="Path_3" data-name="Path 3" d="M36.91,55.694a5.062,5.062,0,0,0,0-10.125H31.858v5.062a5.057,5.057,0,0,0,5.052,5.062m0-13.5H50.384a5.063,5.063,0,0,0,0-10.126H36.91a5.062,5.062,0,0,0,0,10.125" transform="translate(-3552.174 -9363.382)" fill="#ecb12f"/>
+      <path id="Path_4" data-name="Path 4" d="M0,37.131a5.053,5.053,0,1,0,10.105,0V32.069H5.052A5.057,5.057,0,0,0,0,37.131m13.473,0v13.5a5.053,5.053,0,1,0,10.105,0v-13.5a5.053,5.053,0,1,0-10.105,0" transform="translate(-3547.263 -9363.382)" fill="#ecb12f"/>
+    </g>
+  </g>
+</svg>

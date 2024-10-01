@@ -1,0 +1,16 @@
+<svg id="google-merchant-center" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49.187" height="49.163" viewBox="0 0 49.187 49.163">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4385f5"/>
+      <stop offset="1" stop-color="#3569d3"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_7098" data-name="Path 7098" d="M.2,98.333H49.363v33.288a4.1,4.1,0,0,1-4.1,4.1H4.3a4.1,4.1,0,0,1-4.1-4.1Z" transform="translate(-0.2 -86.554)" fill="#518ff5" fill-rule="evenodd"/>
+  <path id="Path_7099" data-name="Path 7099" d="M144.713,208.625l12.767-11.674L176.554,216l-.009,2.4a4.115,4.115,0,0,1-4.112,4.1H158.647Z" transform="translate(-127.368 -173.336)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  <path id="Path_7100" data-name="Path 7100" d="M.2,4.3A4.1,4.1,0,0,1,4.3.2h40.97a4.1,4.1,0,0,1,4.1,4.1v7.682H.2Z" transform="translate(-0.2 -0.2)" fill="#4758b8" fill-rule="evenodd"/>
+  <path id="Path_7101" data-name="Path 7101" d="M139.124,28.361h-4.866a1.792,1.792,0,0,0,0,3.585h13.828a1.792,1.792,0,0,0,0-3.585h-4.866v-.512a2.048,2.048,0,1,0-4.1,0Z" transform="translate(-116.591 -22.727)" fill="#fff" fill-rule="evenodd"/>
+  <g id="Group_7406" data-name="Group 7406" transform="translate(12.099 17.86)">
+    <path id="Path_7102" data-name="Path 7102" d="M105.381,155.241a1.86,1.86,0,1,1,1.86-1.86A1.86,1.86,0,0,1,105.381,155.241Zm19.848,5.717-11.234-11.234a2.481,2.481,0,0,0-1.76-.724H103.5a2.488,2.488,0,0,0-2.5,2.5v8.738a2.441,2.441,0,0,0,.736,1.76l11.222,11.234a2.544,2.544,0,0,0,1.773.736,2.492,2.492,0,0,0,1.76-.736l8.738-8.738a2.441,2.441,0,0,0,.736-1.76A2.5,2.5,0,0,0,125.229,160.958Z" transform="translate(-101 -149)"/>
+    <path id="Path_7103" data-name="Path 7103" d="M105.381,155.241a1.86,1.86,0,1,1,1.86-1.86A1.86,1.86,0,0,1,105.381,155.241Zm19.848,5.717-11.234-11.234a2.481,2.481,0,0,0-1.76-.724H103.5a2.488,2.488,0,0,0-2.5,2.5v8.738a2.441,2.441,0,0,0,.736,1.76l11.222,11.234a2.544,2.544,0,0,0,1.773.736,2.492,2.492,0,0,0,1.76-.736l8.738-8.738a2.441,2.441,0,0,0,.736-1.76A2.5,2.5,0,0,0,125.229,160.958Z" transform="translate(-101 -149)" fill="#fff"/>
+  </g>
+</svg>

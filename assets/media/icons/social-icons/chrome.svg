@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="61" viewBox="0 0 60 61">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="60" height="61" transform="translate(-5.981 -6.783)" fill="#e5e5e5"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.094" y1="0.083" x2="1.302" y2="0.083" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d93025"/>
+      <stop offset="1" stop-color="#ea4335"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.602" y1="0.991" x2="1.207" y2="-0.009" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcc934"/>
+      <stop offset="1" stop-color="#fbbc04"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.773" y1="0.958" x2="0.169" y2="-0.042" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1e8e3e"/>
+      <stop offset="1" stop-color="#34a853"/>
+    </linearGradient>
+  </defs>
+  <g id="chrome" transform="translate(5.981 6.783)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M13.609,30l-10.391-18A23.994,23.994,0,0,0,24,48L34.393,30,34.386,30A11.985,11.985,0,0,1,13.609,30Z" transform="translate(56.785 15.216) rotate(120)" fill="url(#linear-gradient)"/>
+        <path id="Path_2" data-name="Path 2" d="M13.609,30l-10.391-18A23.994,23.994,0,0,0,24,48L34.393,30,34.386,30A11.985,11.985,0,0,1,13.609,30Z" transform="translate(15.215 56.784) rotate(-120)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_3" data-name="Path 3" d="M13.609,30l-10.391-18A23.994,23.994,0,0,0,24,48L34.393,30,34.386,30A11.985,11.985,0,0,1,13.609,30Z" fill="url(#linear-gradient-3)"/>
+        <path id="Path_5" data-name="Path 5" d="M12,0A12,12,0,1,1,0,12,12,12,0,0,1,12,0Z" transform="translate(12 12)" fill="#fff"/>
+        <path id="Path_4" data-name="Path 4" d="M9.5,0A9.5,9.5,0,1,1,0,9.5,9.5,9.5,0,0,1,9.5,0Z" transform="translate(14.5 14.5)" fill="#1a73e8"/>
+      </g>
+    </g>
+  </g>
+</svg>

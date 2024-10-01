@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <g id="Group_6557" data-name="Group 6557" transform="translate(3292 9525)">
+    <rect id="Rectangle_310" data-name="Rectangle 310" width="88" height="88" rx="12" transform="translate(-3292 -9525)"/>
+    <g id="Group_6556" data-name="Group 6556" transform="translate(-77.04 -155.571)">
+      <path id="Path_6633" data-name="Path 6633" d="M11.04,9.48V43.452h4.249V9.48Z" transform="translate(-3197 -9352.429)" fill="#0f9" fill-rule="evenodd"/>
+      <path id="Path_6634" data-name="Path 6634" d="M26.7,14.7V40.175h4.232V14.7Z" transform="translate(-3187.169 -9349.152)" fill="#93f" fill-rule="evenodd"/>
+      <path id="Path_6635" data-name="Path 6635" d="M25.381,8.57H11.04v4.249H29.515V8.57Z" transform="translate(-3197 -9353)" fill="#fff35c" fill-rule="evenodd"/>
+      <path id="Path_6636" data-name="Path 6636" d="M18.87,12.819h6.365L23.119,8.57Z" transform="translate(-3192.084 -9353)" fill-rule="evenodd" opacity="0.4"/>
+      <path id="Path_6637" data-name="Path 6637" d="M30.932,17.206,26.7,15.09v6.365Z" transform="translate(-3187.169 -9348.908)" fill-rule="evenodd" opacity="0.4"/>
+      <path id="Path_6638" data-name="Path 6638" d="M36.531,29.44H11.04v4.249H40.763V29.44Z" transform="translate(-3197 -9339.898)" fill="#0cf" fill-rule="evenodd"/>
+      <path id="Path_6639" data-name="Path 6639" d="M29.977,17.067V12.819H25.729V8.57H21.48V21.3H34.209V17.067Z" transform="translate(-3190.446 -9353)" fill="#f66" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

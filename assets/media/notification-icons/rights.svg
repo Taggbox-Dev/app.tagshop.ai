@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="82" viewBox="0 0 82 82">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.091" y1="-0.153" x2="1.051" y2="0.951" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#81fbb8"/>
+      <stop offset="0.019" stop-color="#7ef9b6"/>
+      <stop offset="0.309" stop-color="#59e497"/>
+      <stop offset="0.578" stop-color="#3ed481"/>
+      <stop offset="0.817" stop-color="#2eca74"/>
+      <stop offset="1" stop-color="#28c76f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.992" y1="-2.102" x2="1.812" y2="2.385" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_11229" data-name="Group 11229" transform="translate(2918 -12049)">
+    <rect id="Rectangle_2747" data-name="Rectangle 2747" width="82" height="82" transform="translate(-2918 12049)" fill="none"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-2906.359 12055.916)">
+      <g id="Layer_3" data-name="Layer 3" transform="translate(-0.001 0.004)">
+        <path id="Path_9034" data-name="Path 9034" d="M55.865,10.58,31.313.379a4.867,4.867,0,0,0-3.747,0L3.013,10.579A4.831,4.831,0,0,0,0,15.077V27.47A43.968,43.968,0,0,0,27.592,68.545a4.831,4.831,0,0,0,3.679.007A43.973,43.973,0,0,0,58.876,27.476V15.08a4.837,4.837,0,0,0-3.011-4.5Zm-.108,4.5v12.4A40.876,40.876,0,0,1,30.092,65.662a1.7,1.7,0,0,1-1.32,0A40.873,40.873,0,0,1,3.119,27.476v-12.4A1.728,1.728,0,0,1,4.2,13.463L28.774,3.251a1.681,1.681,0,0,1,.663-.134,1.7,1.7,0,0,1,.673.137L54.68,13.467a1.729,1.729,0,0,1,1.077,1.61Z" transform="translate(0.001 -0.004)" fill="url(#linear-gradient)"/>
+        <path id="Path_9035" data-name="Path 9035" d="M41.958,27.867a1.506,1.506,0,0,0-1.073-.441h0a1.509,1.509,0,0,0-1.077.44L26.981,40.695l-5.95-6.167a1.557,1.557,0,0,0-2.147-.036,1.516,1.516,0,0,0-.038,2.145l7.025,7.281h0a1.545,1.545,0,0,0,1.086.461,1.527,1.527,0,0,0,1.084-.448L41.956,30.014a1.516,1.516,0,0,0,0-2.146Z" transform="translate(-0.971 -1.451)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
